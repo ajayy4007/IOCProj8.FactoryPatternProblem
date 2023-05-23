@@ -1,7 +1,5 @@
 package com.nt.comp;
-
 import com.nt.comp.Food;
-
 public class Student extends Person {
 	private int rollNo;
 	private String course;
